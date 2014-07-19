@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightPaper.Plugins.OpenInExplorer", "LightPaper.Plugins.OpenInExplorer.csproj", "{834B9C38-93B4-464C-8652-95CC5512E349}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightPaper.Infrastructure", "LightPaper.Infrastructure\LightPaper.Infrastructure.csproj", "{D735BDDC-32AF-4EAB-991F-05DF990001A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightPaper.ResourceSatellite", "LightPaper.ResourceSatellite\LightPaper.ResourceSatellite.csproj", "{67020A86-B71F-4214-83C1-A83D4BA696CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{834B9C38-93B4-464C-8652-95CC5512E349}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{834B9C38-93B4-464C-8652-95CC5512E349}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{834B9C38-93B4-464C-8652-95CC5512E349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D735BDDC-32AF-4EAB-991F-05DF990001A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D735BDDC-32AF-4EAB-991F-05DF990001A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D735BDDC-32AF-4EAB-991F-05DF990001A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D735BDDC-32AF-4EAB-991F-05DF990001A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67020A86-B71F-4214-83C1-A83D4BA696CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67020A86-B71F-4214-83C1-A83D4BA696CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67020A86-B71F-4214-83C1-A83D4BA696CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67020A86-B71F-4214-83C1-A83D4BA696CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
