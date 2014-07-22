@@ -45,8 +45,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\packages\LightPaper.Infrastructure.0.0.1-pre\lib\LightPaper.Infrastructure.dll</HintPath>
     </Reference>
-    <Reference Include="LightPaper.ResourceSatellite">
-      <HintPath>..\..\packages\LightPaper.ResourceSatellite.0.0.1-pre\lib\LightPaper.ResourceSatellite.dll</HintPath>
+    <Reference Include="LightPaper.ResourceSatellite, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\LightPaper.ResourceSatellite.0.0.2-pre\lib\LightPaper.ResourceSatellite.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.Prism.Composition">
       <HintPath>packages\Prism.Composition.5.0.0\lib\NET45\Microsoft.Practices.Prism.Composition.dll</HintPath>
