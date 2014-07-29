@@ -41,13 +41,13 @@
     <Reference Include="ICSharpCode.AvalonEdit">
       <HintPath>..\..\packages\AvalonEdit.5.0.1-pre\lib\Net40\ICSharpCode.AvalonEdit.dll</HintPath>
     </Reference>
-    <Reference Include="LightPaper.Infrastructure, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="LightPaper.Infrastructure, Version=0.0.3.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\packages\LightPaper.Infrastructure.0.0.2-pre\lib\LightPaper.Infrastructure.dll</HintPath>
+      <HintPath>..\..\packages\LightPaper.Infrastructure.0.0.4-pre\lib\LightPaper.Infrastructure.dll</HintPath>
     </Reference>
     <Reference Include="LightPaper.ResourceSatellite, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\packages\LightPaper.Infrastructure.0.0.2-pre\lib\LightPaper.ResourceSatellite.dll</HintPath>
+      <HintPath>..\..\packages\LightPaper.Infrastructure.0.0.4-pre\lib\LightPaper.ResourceSatellite.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.Prism.Composition">
       <HintPath>packages\Prism.Composition.5.0.0\lib\NET45\Microsoft.Practices.Prism.Composition.dll</HintPath>
@@ -84,6 +84,9 @@
     </Reference>
     <Reference Include="Serilog.FullNetFx">
       <HintPath>packages\Serilog.1.3.34\lib\net45\Serilog.FullNetFx.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartFormat">
+      <HintPath>..\..\packages\SmartFormat.NET.1.1.0.0\lib\net35-Client\SmartFormat.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
